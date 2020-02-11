@@ -7,3 +7,7 @@ body {
 p {
     color: white;
 }
+
+img {
+    border: 2pt solid #00ff00;
+}
